@@ -8,7 +8,7 @@
  */
 
 // Database Configuration
-define('DB_HOST', 'rds.learnaws.today');
+define('DB_HOST', 'capstone-db.czica6yy2kxf.ap-south-1.rds.amazonaws.com');
 define('DB_USERNAME', 'capstoneuser');
 define('DB_PASSWORD', 'Avinash12345');
 define('DB_NAME', 'capstone');
@@ -19,7 +19,7 @@ define('APP_VERSION', '2.0');
 define('DEBUG_MODE', false);
 
 // CloudFront Configuration
-define('CLOUDFRONT_DOMAIN', 'd2mreupraclzit.cloudfront.net');
+define('CLOUDFRONT_DOMAIN', 'd3qvkuf7koxhhw.cloudfront.net');
 
 // Security Settings
 define('ENABLE_CSRF_PROTECTION', true);
